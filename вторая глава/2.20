@@ -1,0 +1,9 @@
+import math;
+print("Введите e, f, g, h");
+e, f, g, h=map(float, input() .split());
+a = math.sqrt((abs(e-3/f))**3+g);
+b = math.sin(e)+(math.cos(h))**2;
+c = (33*g)/(e*f-3);
+print("a=", a, sep="");
+print("b=", b, sep="");
+print("c=", c, sep="");

@@ -1,0 +1,7 @@
+import math;
+print("Введите массу тела");
+m = float(input());
+print("Введите объем тела");
+v = float(input());
+ro = m/v;
+print("Плотность тела равна ", ro)

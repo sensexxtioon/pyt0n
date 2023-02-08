@@ -1,0 +1,4 @@
+import math;
+a = int(input("Сантиметры = "))
+b = a/100
+print(b,"метров")

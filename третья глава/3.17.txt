@@ -1,0 +1,4 @@
+import math;
+a = int(input("Киллограммы = "))
+b = a/100
+print(b,"центнеров")
